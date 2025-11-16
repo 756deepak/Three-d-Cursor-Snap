@@ -1,7 +1,7 @@
 bl_info = {
-    "name": "3D Cursor Snap",
+    "name": "Three d Cursor Snap",
     "author": "Deepak",
-    "version": (1, 1, 0),
+    "version": (1, 0, 0),
     "blender": (4, 5, 0),
     "description": "3d cursor snap to vertex/edge/face.",
     "category": "3D View",
